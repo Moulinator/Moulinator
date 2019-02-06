@@ -1,0 +1,4 @@
+some advices :
+1) in the conf file, use only absolute path starting from ~/ included
+2) in the paths, avoid specials chars and even '-'
+3) you can use "./Moulinator [password] [project] | less" to have an easy navigation in your trace
